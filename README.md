@@ -118,24 +118,3 @@ analise.gerar_relatorio_txt('relatorio_alunos_completo.txt')
 ### 4. Conclusão
 
 Este sistema oferece uma plataforma de treinamento realista para alunos de medicina, permitindo que eles pratiquem suas habilidades em cenários simulados, sejam avaliados em diferentes aspectos, e tenham uma visão clara de seu desempenho através de gráficos e rankings. A utilização de técnicas avançadas como **programação dinâmica** e **simulações de Monte Carlo** permite que o sistema seja flexível e ofereça feedback robusto para o usuário.
-
-## Instalação e Dependências
-
-Certifique-se de ter as bibliotecas necessárias instaladas. Você pode instalar as dependências com:
-
-```bash
-pip install matplotlib python-docx
-```
-
-## Como Contribuir
-
-Se você deseja contribuir para este projeto:
-1. Faça um fork do repositório.
-2. Crie uma branch (`git checkout -b feature/sua-feature`).
-3. Faça suas alterações e commite (`git commit -am 'Adiciona nova feature'`).
-4. Envie para a branch principal (`git push origin feature/sua-feature`).
-5. Crie um novo Pull Request.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
